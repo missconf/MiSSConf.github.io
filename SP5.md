@@ -1,10 +1,9 @@
 ## #MiSSConf(SP5)
 
-Date : (Sat) July 6, 2019
-Venue : TBA
-Agenda :
++ Date : (Sat) July 6, 2019
++ Venue : TBA
 
-|        Test       |
+|      Agenda       |
 |---|---|---|---|---|
 |   |   |   |   |   |
 |   |   |   |   |   |
