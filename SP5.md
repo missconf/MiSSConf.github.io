@@ -19,4 +19,4 @@
 | 16:00 - 16:50  |  Session #8  		|
 | 16:50 - 17:00  |  Lucky Draw & Closing|
 
-![](https://i2.wp.com/www.techtalkthai.com/wp-content/uploads/2017/03/lineatmissconf.png)
+![](/img/lineat-missconf.png)
