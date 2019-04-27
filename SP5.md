@@ -21,8 +21,12 @@
 
 
 ![](/SP5/Sponsors/SecureD-Center.jpg)
+
 ![](/SP5/Sponsors/RAPID7.jpg)
+
 ![](/SP5/Sponsors/MAYASEVEN.jpg)
+
 ![](/SP5/Sponsors/ACIS-Cybertron.jpg)
+
 
 ![](/img/lineat-missconf.png)
