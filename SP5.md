@@ -16,7 +16,7 @@
 | 14:00 - 14:50  |  Session #6  		|
 | 14:50 - 15:10  |  Break       		|
 | 15:10 - 16:00  |  Session #7  		|
-| 16:00 - 16:50  |  **Dissecting Android SafetyNet** <br>--- Boonpoj Thongakaraniroj (SecureD Center)	|
+| 16:00 - 16:50  |  **Dissecting Android SafetyNet** <br>--- Khun Boonpoj Thongakaraniroj (SecureD Center)	|
 | 16:50 - 17:00  |  Lucky Draw & Closing|
 
 
