@@ -5,7 +5,7 @@
 
 |      Agenda       																						|
 |----------------|------------------------------------------------------------------------------------------|
-| 08:30 - 08:40  |  Opening     																			|
+| 08:30 - 08:40  |  Opening																					|
 | 08:40 - 09:30  |  Session #1  																			|
 | 09:30 - 10:20  |  **TBD** <br>--- Khun Prinya Hom-Anek (ACIS/Cybertron)  									|
 | 10:20 - 10:40  |  Break       																			|
@@ -16,7 +16,7 @@
 | 14:00 - 14:50  |  Session #6  																			|
 | 14:50 - 15:10  |  Break       																			|
 | 15:10 - 16:00  |  Session #7  																			|
-| 16:00 - 16:50  |  **Dissecting Android SafetyNet** <br>--- Khun Boonpoj Thongakaraniroj (SecureD Center)	|
+| 16:00 - 16:50  |  **Anti-Anti-Code Modification** <br>--- Khun Boonpoj Thongakaraniroj (Secure D Center)	|
 | 16:50 - 17:00  |  Lucky Draw & Closing																	|
 
 
