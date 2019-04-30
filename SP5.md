@@ -7,7 +7,7 @@
 |----------------|------------------------------------------------------------------------------------------|
 | 08:30 - 08:40  |  Opening																					|
 | 08:40 - 09:30  |  Session #1  																			|
-| 09:30 - 10:20  |  **TBD** <br>--- Khun Prinya Hom-Anek (ACIS/Cybertron)  									|
+| 09:30 - 10:20  |  **Understanding Thailand Cybersecurity Law/Data Protection Law and its unintended consequence.** <br>--- Khun Prinya Hom-Anek (ACIS Professional Center Co., Ltd.)  									|
 | 10:20 - 10:40  |  Break       																			|
 | 10:40 - 11:30  |  **TBD** <br>--- Khun Narudom Roongsiriwong (Kiatnakin Bank)								|
 | 11:30 - 12:20  |  **MAYASEVEN’s Hacking Diary** <br>--- Khun Nop Phoomthaisong (MAYASEVEN)				|
