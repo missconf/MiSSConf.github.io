@@ -6,7 +6,7 @@
 |      Agenda       																					|
 |-------------|-----------------------------------------------------------------------------------------|
 | 08:30-09:00 | Registration & Lucky Draw																|
-| 09:00-09:10 | **Opening** <br>--- Khun Chonlatit Rujiphut (MiSSConf) 									|
+| 09:00-09:10 | **Opening** <br>--- Khun Chonlatit Rujiphut (VolunteXTH) 									|
 | 09:10-10:00 | **Understanding Thailand Cybersecurity Law/Data Protection Law and its unintended consequence.** <br>--- Khun Prinya Hom-Anek (ACIS Professional Center Co., Ltd.)	|
 | 10:00-10:20 | Break																					|
 | 10:20-11:10 | **TBD** <br>--- Khun Narudom Roongsiriwong (Kiatnakin Bank)								|
