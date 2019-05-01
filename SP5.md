@@ -16,7 +16,7 @@
 | 13:10-14:00  |  **TBD** <br>--- Khun Damrongsak Reetanon (MFEC)  										|
 | 14:00-14:50  |  **APT-Based Security Assessment and Detection** <br>--- Khun Pansaen Boonyakarn (i-secure Co., Ltd.)	|
 | 14:50-15:10  |  Break       																			|
-| 15:10-16:00  |  Session #7  																			|
+| 15:10-16:00  |  **TBD** <br>--- Dr. Bhume Bhumiratana  												|
 | 16:00-16:50  |  **Anti-Anti-Code Modification** <br>--- Khun Boonpoj Thongakaraniroj (Secure D Center)	|
 | 16:50-17:00  |  Lucky Draw & Closing																	|
 
