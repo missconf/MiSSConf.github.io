@@ -31,3 +31,5 @@
 ![](/SP5/Sponsors/MAYASEVEN.jpg)
 
 ![](/SP5/Sponsors/ACIS-Cybertron.jpg)
+
+![](/SP5/Sponsors/TechTalkThai.jpg)
