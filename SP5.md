@@ -20,7 +20,7 @@
 | 16:40-17:00 | **MiSSConf's FanPanTae  & Closing** <br>--- Khun Eakkphol Pobsuknirundorn (MiSSConf) 	|
 
 
-![](/img/lineat-missconf.png)
+![](/img/lineat-missconf-v2.png)
 
 
 ![](/SP5/Sponsors/SecureD-Center.jpg)
