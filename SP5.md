@@ -40,4 +40,4 @@
 * [MiSSConf(SP1)](https://www.techtalkthai.com/introduce-to-missconfsp1-free-it-security-seminar/)
 * [MiSSDay](https://www.techtalkthai.com/it-connect-miss-day/)
 
-***For more information** : Maykin Warasart **(missconfstaff@gmail.com, maykin@owasp.org)***
+***For more information*** : *Maykin Warasart (missconfstaff@gmail.com, maykin@owasp.org)*
