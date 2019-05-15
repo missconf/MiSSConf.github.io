@@ -39,3 +39,5 @@
 * [MiSSConf(SP2)](https://www.techtalkthai.com/missconfsp2-tickets-will-be-available-for-free-at-noon-of-2016-11-03/)
 * [MiSSConf(SP1)](https://www.techtalkthai.com/introduce-to-missconfsp1-free-it-security-seminar/)
 * [MiSSDay](https://www.techtalkthai.com/it-connect-miss-day/)
+
+More info : missconfstaff@gmail.com, maykin@owasp.org
