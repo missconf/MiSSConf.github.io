@@ -15,7 +15,7 @@
 | 13:00-13:50 | **Security Improvement with Infrastructure as Code** <br>--- Khun Damrongsak Reetanon (MFEC)  										|
 | 13:50-14:40 | **APT-Based Security Assessment and Detection** <br>--- Khun Pansaen Boonyakarn (i-secure Co., Ltd.)	|
 | 14:40-15:00 | Break																					|
-| 15:00-15:50 | **“Digital (?), Trust, and the Rule of Law** <br>--- Dr. Bhume Bhumiratana  													|
+| 15:00-15:50 | **Digital (?), Trust, and the Rule of Law** <br>--- Dr. Bhume Bhumiratana  													|
 | 15:50-16:40 | **Anti-Anti-Code Modification** <br>--- Khun Boonpoj Thongakaraniroj (Secure D Center)	|
 | 16:40-17:00 | **MiSSConf's FanPanTae  & Closing** <br>--- Khun Eakkphol Pobsuknirundorn (MiSSConf) 	|
 
@@ -40,4 +40,4 @@
 * [MiSSConf(SP1)](https://www.techtalkthai.com/introduce-to-missconfsp1-free-it-security-seminar/)
 * [MiSSDay](https://www.techtalkthai.com/it-connect-miss-day/)
 
-*For more information : Maykin Warasart (missconfstaff@gmail.com, maykin@owasp.org)*
+***For more information** : Maykin Warasart **(missconfstaff@gmail.com, maykin@owasp.org)***
