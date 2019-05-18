@@ -33,7 +33,8 @@
 
 [![](/SP5/Sponsors/TechTalkThai.jpg "TechTalkThai - ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย - TechTalkThai")](https://www.techtalkthai.com/)
 
-[![](/SP5/Sponsors/KirsCorp.png "KIRS Corporation Company Limited - จำหน่ายสินค้าและให้บริการด้านไอทีระดับองค์กร พร้อมให้ราคาดีที่สุด")](https://www.kirscorp.co.th/)
+[![](/SP5/Sponsors/KirsCorp.jpg "KIRS Corporation Company Limited - จำหน่ายสินค้าและให้บริการด้านไอทีระดับองค์กร พร้อมให้ราคาดีที่สุด")](https://www.kirscorp.co.th/)
+
 
 
 * [MiSSConf(SP4.0)](https://www.techtalkthai.com/missconfsp4-0-registration-will-start-in-2018-03-16/)
