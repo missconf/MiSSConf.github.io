@@ -23,17 +23,17 @@
 
 [![](/img/lineat-missconf-v2.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
 
-![](/SP5/Sponsors/SecureD-Center.jpg)
+[![](/SP5/Sponsors/SecureD-Center.jpg "WHAT WE DO.    PREVENT  DETECT  RESPOND      OUR SERVICES.  As the information security landscape continues to evolve, cyber-attack becomes increasingly sophisticated. Cyber security has become a significant agenda of Boards across the globe.")](https://secure-d.tech/)
 
-![](/SP5/Sponsors/RAPID7.jpg)
+[![](/SP5/Sponsors/RAPID7.jpg "Rapid7 powers the practice of SecOps by delivering shared visibility, analytics, and automation to unite security, IT, and DevOps teams. Learn more.")](https://www.rapid7.com/)
 
-![](/SP5/Sponsors/MAYASEVEN.jpg)
+[![](/SP5/Sponsors/MAYASEVEN.jpg "ร่วมผลักดันและพัฒนาความปลอดภัยทางไซเบอร์ของประเทศให้มีความมั่นคง และเป็นผู้นำในการให้บริการด้านความปลอดภัยทางไซเบอร์ที่มีขีดความสามารถในการแข่งขันระดับสากล")](https://mayaseven.com/)
 
-![](/SP5/Sponsors/ACIS-Cybertron.jpg)
+[![](/SP5/Sponsors/ACIS-Cybertron.jpg "ACIS Professional Center is a Number one IT security Training and Consult firm in Thailand.  ACIS provides IT Security training courses and consultancy by A. Prinya Hom-Anek and his team. Also hosts the biggest IT security Event known as CDIC")](https://www.acisonline.net)
 
-![](/SP5/Sponsors/TechTalkThai.jpg)
+[![](/SP5/Sponsors/TechTalkThai.jpg "TechTalkThai | ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย - TechTalkThai")](https://www.techtalkthai.com/)
 
-![](/SP5/Sponsors/KirsCorp.png)
+[![](/SP5/Sponsors/KirsCorp.png "KIRS Corporation Company Limited | จำหน่ายสินค้าและให้บริการด้านไอทีระดับองค์กร พร้อมให้ราคาดีที่สุด")](https://www.kirscorp.co.th/)
 
 
 * [MiSSConf(SP4.0)](https://www.techtalkthai.com/missconfsp4-0-registration-will-start-in-2018-03-16/)
