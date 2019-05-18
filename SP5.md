@@ -29,11 +29,11 @@
 
 [![](/SP5/Sponsors/MAYASEVEN.jpg "ร่วมผลักดันและพัฒนาความปลอดภัยทางไซเบอร์ของประเทศให้มีความมั่นคง และเป็นผู้นำในการให้บริการด้านความปลอดภัยทางไซเบอร์ที่มีขีดความสามารถในการแข่งขันระดับสากล")](https://mayaseven.com/)
 
-[![](/SP5/Sponsors/ACIS-Cybertron.jpg "ACIS Professional Center is a Number one IT security Training and Consult firm in Thailand.  ACIS provides IT Security training courses and consultancy by A. Prinya Hom-Anek and his team. Also hosts the biggest IT security Event known as CDIC")](https://www.acisonline.net)
+[![](/SP5/Sponsors/ACIS-Cybertron.jpg "ACIS Professional Center is a Number one IT security Training and Consult firm in Thailand. ACIS provides IT Security training courses and consultancy by A. Prinya Hom-Anek and his team. Also hosts the biggest IT security Event known as CDIC")](https://www.acisonline.net)
 
-[![](/SP5/Sponsors/TechTalkThai.jpg "TechTalkThai | ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย - TechTalkThai")](https://www.techtalkthai.com/)
+[![](/SP5/Sponsors/TechTalkThai.jpg "TechTalkThai - ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย - TechTalkThai")](https://www.techtalkthai.com/)
 
-[![](/SP5/Sponsors/KirsCorp.png "KIRS Corporation Company Limited | จำหน่ายสินค้าและให้บริการด้านไอทีระดับองค์กร พร้อมให้ราคาดีที่สุด")](https://www.kirscorp.co.th/)
+[![](/SP5/Sponsors/KirsCorp.png "KIRS Corporation Company Limited - จำหน่ายสินค้าและให้บริการด้านไอทีระดับองค์กร พร้อมให้ราคาดีที่สุด")](https://www.kirscorp.co.th/)
 
 
 * [MiSSConf(SP4.0)](https://www.techtalkthai.com/missconfsp4-0-registration-will-start-in-2018-03-16/)
