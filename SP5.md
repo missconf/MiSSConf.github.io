@@ -34,6 +34,8 @@
 
 ![](/SP5/Sponsors/TechTalkThai.jpg)
 
+![](/SP5/Sponsors/KirsCorp.png)
+
 
 * [MiSSConf(SP4.0)](https://www.techtalkthai.com/missconfsp4-0-registration-will-start-in-2018-03-16/)
 * [MiSSConf(SP3)](https://www.techtalkthai.com/missconfsp3-registration-date-is-marked-at-march-15th-2017-12-00/)
