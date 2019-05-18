@@ -1,7 +1,7 @@
 ## #MiSSConf(SP5)
 
 + Date : (Sat) July 6, 2019
-+ Venue : TBA
++ Venue : Platform 9¾
 + Online Registration : June 14, 2019 (12:30)
 
 |      Agenda       																					|
