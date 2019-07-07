@@ -2,7 +2,7 @@
 
 + Date : **(Sat) July 6, 2019**
 + Venue : **DTAC House**
-+ Online Registration : June 14, 2019 (12:30)**Closed**
++ Online Registration : June 14, 2019 (12:30) **Closed**
 
 |      Agenda       																					|
 |-------------|-----------------------------------------------------------------------------------------|
