@@ -21,7 +21,7 @@
 | 16:40-17:00 | **MiSSConf's FanPanTae  & Closing** <br>--- Khun Eakkphol Pobsuknirundorn (MiSSConf) 	|
 
 
-[![](/SP5/Sponsors.png)]
+![](/SP5/Sponsors.png "Thank you our sponsors")
 [![](/img/lineat-missconf-v2.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
 
 
