@@ -36,7 +36,7 @@
 [![](/SP5/Sponsors/KirsCorp.jpg "KIRS Corporation Company Limited - จำหน่ายสินค้าและให้บริการด้านไอทีระดับองค์กร พร้อมให้ราคาดีที่สุด")](https://www.kirscorp.co.th/)
 
 
-
+* [MiSSConf(SP5)](https://www.techtalkthai.com/misscoinf-sp5-date-and-agenda-are-announced/)
 * [MiSSConf(SP4.0)](https://www.techtalkthai.com/missconfsp4-0-registration-will-start-in-2018-03-16/)
 * [MiSSConf(SP3)](https://www.techtalkthai.com/missconfsp3-registration-date-is-marked-at-march-15th-2017-12-00/)
 * [MiSSConf(SP2)](https://www.techtalkthai.com/missconfsp2-tickets-will-be-available-for-free-at-noon-of-2016-11-03/)
