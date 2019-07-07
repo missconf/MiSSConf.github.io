@@ -13,7 +13,7 @@
 | 10:20-11:10 | **Secure Software Design for Data Privacy** <br>--- Khun Narudom Roongsiriwong (Kiatnakin Bank)								|
 | 11:10-12:00 | **MAYASEVEN’s Hacking Diary** <br>--- Khun Nop Phoomthaisong (MAYASEVEN)				|
 | 12:00-13:00 | Lunch																					|	
-| 13:00-13:50 | **Security Improvement with Infrastructure as Code** <br>--- Khun Damrongsak Reetanon (MFEC)  										|
+| 13:00-13:50 | **Security Improvement with Infrastructure as Code [[Slide](/Slides/SecurityImprovementWInfrastructureAsCode.pdf)]** <br>--- Khun Damrongsak Reetanon (MFEC)  										|
 | 13:50-14:40 | **APT-Based Security Assessment and Detection [[Slide](https://docs.google.com/presentation/d/1HJj7svm206DsovI2n-ESaLcCh46MFg_9c1Hx0wq8UrU/)]** <br>--- Khun Pansaen Boonyakarn (i-secure Co., Ltd.)	|
 | 14:40-15:00 | Break																					|
 | 15:00-15:50 | **Digital (?), Trust, and the Rule of Law** <br>--- Dr. Bhume Bhumiratana  													|
