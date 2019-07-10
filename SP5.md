@@ -8,7 +8,7 @@
 |-------------|-----------------------------------------------------------------------------------------|
 | 08:30-09:00 | Registration & Lucky Draw																|
 | 09:00-09:10 | **Opening** <br>--- Khun Chonlatit Rujiphut (VolunteXTH) 									|
-| 09:10-10:00 | **Understanding Thailand Cybersecurity Law/Data Protection Law and its unintended consequence.** <br>--- Khun Prinya Hom-Anek (ACIS Professional Center Co., Ltd.)	|
+| 09:10-10:00 | **Understanding Thailand Cybersecurity Law/Data Protection Law and its unintended consequence [[Slide](https://www.dropbox.com/s/i8l3lafhgw2wiw1/Prinya_ACIS_slide_for_missconfsp5%20%28public%29.pdf)]** <br>--- Khun Prinya Hom-Anek (ACIS Professional Center Co., Ltd.)	|
 | 10:00-10:20 | Break																					|
 | 10:20-11:10 | **Secure Software Design for Data Privacy [[Slide](/SP5/Slides/Secure-Software-Design-for-Data-Privacy-MiSSConfSP5.pdf)]** <br>--- Khun Narudom Roongsiriwong (Kiatnakin Bank)								|
 | 11:10-12:00 | **MAYASEVEN’s Hacking Diary [[Slide](/SP5/Slides/RedxBlue_final-Signed.pdf)]** <br>--- Khun Nop Phoomthaisong (MAYASEVEN)				|
