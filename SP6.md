@@ -7,7 +7,7 @@
 |      Agenda       																					|
 |-------------|-----------------------------------------------------------------------------------------|
 | 08:30-09:00 | Registration & Lucky Draw																|
-| 09:00-09:10 | **Opening** <br>--- Khun Xxxxx Xxxxx (MiSSConf) 											|
+| 09:00-09:10 | **Opening** <br>--- Khun Eakkphol Pobsuknirundorn (MiSSConf)							|
 | 09:10-10:00 | **Topic 1 																				|
 | 10:00-10:20 | Break																					|
 | 10:20-11:10 | **Topic 2 																				|
@@ -17,7 +17,7 @@
 | 13:50-14:40 | **Topic 5 																				|
 | 14:40-15:00 | Break																					|
 | 15:00-15:50 | **Topic 6 																				|
-| 15:50-16:15 | **MiSSConf's FanPanTae  & Closing** <br>--- Khun Xxxxx Xxxxxx (MiSSConf) 				|
+| 15:50-16:15 | **MiSSConf's FanPanTae  & Closing** <br>--- Khun Chutima Singharod (MiSSConf) 				|
 
 ## Platinum Sponsor:
 
