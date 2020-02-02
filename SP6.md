@@ -19,6 +19,9 @@
 | 15:00-15:50 | **Topic 6 																				|
 | 15:50-16:15 | **MiSSConf's FanPanTae  & Closing** <br>--- Khun Xxxxx Xxxxxx (MiSSConf) 				|
 
+## Platinum Sponsor:
+
+
 
 [![](/img/lineat-missconf-v2.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
 
