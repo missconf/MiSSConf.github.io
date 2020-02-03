@@ -23,8 +23,6 @@
 [![](/SP6/Sponsors/SecureD.png "Your Secure Daemon. We provide cyber security services for your company ranging from cyber security training, consultant, penetration testing, incident response, and more.")](https://www.secure-d.tech/)
 [![](/SP6/Sponsors/Rapid7.jpg "Accelerate Security, Vuln Management, Compliance")](https://www.rapid7.com/)
 
-[![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
-
 
 * [MiSSConf(SP5)](https://www.techtalkthai.com/misscoinf-sp5-date-and-agenda-are-announced/)[[➳](https://www.facebook.com/notes/2450050635052739/)]
 * [MiSSConf(SP4.0)](https://www.techtalkthai.com/missconfsp4-0-registration-will-start-in-2018-03-16/)[[➳](https://www.facebook.com/notes/1998382990191517)]
@@ -34,3 +32,4 @@
 * [MiSSDay](https://www.techtalkthai.com/it-connect-miss-day/)[[➳](https://www.facebook.com/notes/1257877097575447)]
 
 ***For more information*** : *Maykin Warasart (missconfstaff@gmail.com, maykin@owasp.org)*
+[![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
