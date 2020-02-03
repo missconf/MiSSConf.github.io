@@ -4,7 +4,7 @@
 
 + Date : **(Sat) June 6, 2020**
 + Venue : **TBA**
-+ Online Registration : May 5, 2020 (15:15)
++ Online Registration : **(Tue) May 5, 2020** (15:15)
 
 |      Agenda       																					|
 |-------------|-----------------------------------------------------------------------------------------|
@@ -39,5 +39,7 @@
 
 
 ## For more information:
-Maykin Warasart *(missconfstaff@gmail.com, maykin@owasp.org)*
+**Maykin Warasart** 
+* *missconfstaff@gmail.com*
+* *maykin@owasp.org*
 [![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
