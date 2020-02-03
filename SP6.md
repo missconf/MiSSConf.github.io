@@ -1,6 +1,6 @@
 ## #MiSSConf(SP6)
 
-[![](/img/MiSSConf-icon.png "MiSSConf")](https://MiSSConf.github.io)
+[![](/img/MiSSConf-icon-640x202.png "MiSSConf")](https://MiSSConf.github.io)
 
 + Date : **(Sat) June 6, 2020**
 + Venue : **TBA**
