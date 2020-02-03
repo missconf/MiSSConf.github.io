@@ -1,5 +1,7 @@
 ## #MiSSConf(SP6)
 
+[![](/img/MiSSConf-icon.png "MiSSConf")](https://MiSSConf.github.io)
+
 + Date : **(Sat) June 6, 2020**
 + Venue : **TBA**
 + Online Registration : May 16, 2020 (12:30)
