@@ -10,7 +10,7 @@
 | 09:00-09:10 | **Opening** <br>--- Khun Eakkphol Pobsuknirundorn (MiSSConf)							|
 | 09:10-10:00 | **Topic 1 																				|
 | 10:00-10:20 | Break																					|
-| 10:20-11:10 | **Topic 2 																				|
+| 10:20-11:10 | **Topic 2 by Khun Narudom Roongsiriwong (Kiatnakin Bank)								|
 | 11:10-12:00 | **Topic 3 																				|
 | 12:00-13:00 | Lunch																					|	
 | 13:00-13:50 | **Topic 4 																				|
