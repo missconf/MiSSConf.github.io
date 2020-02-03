@@ -14,7 +14,7 @@
 | 11:10-12:00 | **Topic 3** <br>--- Khun Nuttakorn Tungpoonsup											|
 | 12:00-13:00 | Lunch																					|	
 | 13:00-13:50 | **Topic 4** <br>--- Khun Sumedt Jitpukdebodin (Secure D Global)							|
-| 13:50-14:40 | **Topic 5** 																			|
+| 13:50-14:40 | **Topic 5** <br>--- Khun Kusol Watchara-Apanukorn (SnoopBees)							|
 | 14:40-15:00 | Break																					|
 | 15:00-15:50 | **Topic 6** 																			|
 | 15:50-16:40 | **Topic 7** <br>--- Dr. Bhume Bhumiratana												|
