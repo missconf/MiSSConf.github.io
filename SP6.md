@@ -17,7 +17,8 @@
 | 13:50-14:40 | **Topic 5** 																			|
 | 14:40-15:00 | Break																					|
 | 15:00-15:50 | **Topic 6** 																			|
-| 15:50-16:15 | **MiSSConf's FanPanTae  & Closing** <br>--- Khun Chutima Singharod (MiSSConf) 			|
+| 15:50-16:40 | **Topic 7** <br>--- Dr. Bhume Bhumiratana												|
+| 16:40-17:00 | **MiSSConf's FanPanTae  & Closing** <br>--- Khun Chutima Singharod (MiSSConf) 			|
 
 ## Platinum Sponsor:
 [![](/SP6/Sponsors/SecureD.png "Your Secure Daemon. We provide cyber security services for your company ranging from cyber security training, consultant, penetration testing, incident response, and more.")](https://www.secure-d.tech/)
