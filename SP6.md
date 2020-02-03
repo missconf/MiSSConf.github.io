@@ -20,9 +20,11 @@
 | 15:50-16:40 | **Topic 7** <br>--- Dr. Bhume Bhumiratana												|
 | 16:40-17:00 | **MiSSConf's FanPanTae  & Closing** <br>--- Khun Chutima Singharod (MiSSConf) 			|
 
+
 ## Platinum Sponsor:
 [![](/SP6/Sponsors/SecureD.png "Your Secure Daemon. We provide cyber security services for your company ranging from cyber security training, consultant, penetration testing, incident response, and more.")](https://www.secure-d.tech/)
 [![](/SP6/Sponsors/Rapid7.jpg "Accelerate Security, Vuln Management, Compliance")](https://www.rapid7.com/)
+
 
 ## Previous Events:
 * [MiSSConf(SP5)](https://www.techtalkthai.com/misscoinf-sp5-date-and-agenda-are-announced/)[[➳](https://www.facebook.com/notes/2450050635052739/)]
@@ -31,6 +33,7 @@
 * [MiSSConf(SP2)](https://www.techtalkthai.com/missconfsp2-tickets-will-be-available-for-free-at-noon-of-2016-11-03/)[[➳](https://www.facebook.com/notes/1435209959842159)]
 * [MiSSConf(SP1)](https://www.techtalkthai.com/introduce-to-missconfsp1-free-it-security-seminar/)[[➳](https://www.facebook.com/notes/1292590137437476)]
 * [MiSSDay](https://www.techtalkthai.com/it-connect-miss-day/)[[➳](https://www.facebook.com/notes/1257877097575447)]
+
 
 ## For more information:
 * Maykin Warasart *(missconfstaff@gmail.com, maykin@owasp.org)*
