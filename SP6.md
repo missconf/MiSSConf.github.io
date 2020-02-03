@@ -20,7 +20,7 @@
 | 15:50-16:15 | **MiSSConf's FanPanTae  & Closing** <br>--- Khun Chutima Singharod (MiSSConf) 				|
 
 ## Platinum Sponsor:
-
+[![](/SP6/Sponsors/SecureD.png "Your Secure Daemon. We provide cyber security services for your company ranging from cyber security training, consultant, penetration testing, incident response, and more.")](https://www.secure-d.tech/)
 
 
 [![](/img/lineat-missconf-v2.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
