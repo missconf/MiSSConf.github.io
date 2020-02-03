@@ -34,5 +34,4 @@
 
 ## For more information:
 * Maykin Warasart *(missconfstaff@gmail.com, maykin@owasp.org)*
-
-[![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
+* [![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
