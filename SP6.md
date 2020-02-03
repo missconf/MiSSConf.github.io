@@ -23,7 +23,7 @@
 [![](/SP6/Sponsors/SecureD.png "Your Secure Daemon. We provide cyber security services for your company ranging from cyber security training, consultant, penetration testing, incident response, and more.")](https://www.secure-d.tech/)
 [![](/SP6/Sponsors/Rapid7.jpg "Accelerate Security, Vuln Management, Compliance")](https://www.rapid7.com/)
 
-[![](/img/lineat-missconf-v2.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
+[![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
 
 
 * [MiSSConf(SP5)](https://www.techtalkthai.com/misscoinf-sp5-date-and-agenda-are-announced/)[[➳](https://www.facebook.com/notes/2450050635052739/)]
