@@ -20,7 +20,7 @@
 | 14:40-15:00 | Break																					|
 | 15:00-15:50 | **Topic 6** 																			|
 | 15:50-16:40 | **Topic 7** <br>--- Dr. Bhume Bhumiratana												|
-| 16:40-17:00 | **MiSSConf's FanPanTae  & Closing** <br>--- Khun Chutima Singharod (MiSSConf) 			|
+| 16:40-17:00 | **MiSSConf's FanPanTae & Closing** <br>--- Khun Chutima Singharod (MiSSConf) 			|
 
 
 ## Platinum Sponsors:
