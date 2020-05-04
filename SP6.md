@@ -9,7 +9,7 @@
 |      Agenda       																					|
 |-------------|-----------------------------------------------------------------------------------------|
 | 08:30-09:00 | Registration & Lucky Draw																|
-| 09:00-09:10 | **Opening** <br>--- Khun Eakkphol Pobsuknirundorn (MiSSConf)							|
+| 09:00-09:10 | **Opening** <br>--- Khun Eakkphol P. & Maykin W. (MiSSConf)			     				|
 | 09:10-10:00 | **Topic 1** 																		    |
 | 10:00-10:20 | Break																					|
 | 10:20-11:10 | **Topic 2** 					|
