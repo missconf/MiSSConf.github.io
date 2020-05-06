@@ -5,3 +5,5 @@
 ## #MiSSConf(SP2)
 ## #MiSSConf(SP1)
 ## #MiSSDay
+
+[#MiSSConfChallenge](Challenge)
