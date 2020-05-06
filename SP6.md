@@ -8,16 +8,15 @@
 
 |      Agenda       																					|
 |-------------|-----------------------------------------------------------------------------------------|
-| 09:30-09:45 | **Opening** <br>--- Khun Eakkphol P. & Maykin W. (MiSSConf)			     				|
-| 09:45-10:35 | **Topic 1** 																		    |
-| 10:35-11:25 | **Topic 2** <br>--- Khun Narudom Roongsiriwong (Kiatnakin Bank)							|
-| 11:10-12:00 | **Topic 3** 																			|
-| 12:00-13:00 | Lunch																					|	
-| 13:00-13:50 | **Topic 4** 																			|
-| 13:50-14:40 | **Topic 5** <br>--- Khun Kusol Watchara-Apanukorn (SnoopBees)							|
-| 14:40-15:00 | Break																					|
-| 15:00-15:50 | **Topic 6** 																			|
-| 15:50-16:00 | **MiSSConf's FanPanTae & Closing** <br>--- Khun Chutima Singharod (MiSSConf) 			|
+| 09:30-09:45 | **Opening & MiSSConf's FanPanTae** <br>--- Khun Eakkphol P. & Maykin W. (MiSSConf)			     				|
+| 09:45-10:45 | **Topic 1** 																		    |
+| 10:45-11:45 | **Topic 2** <br>--- Khun Narudom Roongsiriwong (Kiatnakin Bank)							|
+| 11:45-13:15 | Lunch 																			|
+| 13:15-13:30 | **Lucky Draw**
+| 13:30-14:30 | **Topic 3** 																			|
+| 14:30-15:30 | **Topic 4** <br>--- Khun Kusol Watchara-Apanukorn (SnoopBees)							|
+| 15:30-16:30 | **Topic 5** 																			|
+| 16:30-16:45 | **Lucky Draw & Closing** <br>--- Khun Chutima Singharod (MiSSConf) 			|
 
 
 ## Platinum Sponsors:
