@@ -3,7 +3,7 @@
 [![](/img/MiSSConf-icon-640x202.png "MiSSConf")](https://MiSSConf.github.io)
 
 + Date : **(Sat) June 6, 2020**
-+ Venue : Online
++ Venue : **Online**
 + Online Registration : **(Fri) May 15, 2020** (15:15)
 
 |      Agenda       																					|
