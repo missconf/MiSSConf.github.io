@@ -8,7 +8,7 @@
 
 |      Agenda       																					|
 |-------------|-----------------------------------------------------------------------------------------|
-| 09:30-09:40 | **Opening** <br>--- Khun Eakkphol P. & Maykin W. (MiSSConf)			     				|
+| 09:30-09:45 | **Opening** <br>--- Khun Eakkphol P. & Maykin W. (MiSSConf)			     				|
 | 09:10-10:00 | **Topic 1** 																		    |
 | 10:00-10:20 | Break																					|
 | 10:20-11:10 | **Topic 2** <br>--- Khun Narudom Roongsiriwong (Kiatnakin Bank)							|
