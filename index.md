@@ -5,3 +5,5 @@
 ## #MiSSConf(SP2)
 ## #MiSSConf(SP1)
 ## #MiSSDay
+
+[![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)

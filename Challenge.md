@@ -6,3 +6,5 @@
 + [Maykin Warasart](https://www.facebook.com/maeklong/posts/10220293356537949)
 + [Chonlatit Rujiphut](https://www.facebook.com/Tsunakun27/videos/3432440680117846/)
 + [Suphawadee Charuteeranat](https://www.facebook.com/thdeemiss03/videos/2959085644182542/)
+
+[![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
