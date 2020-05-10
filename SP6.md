@@ -13,7 +13,7 @@
 | 10:45-11:45 | **Topic 2** <br>--- [Khun Narudom Roongsiriwong](https://www.facebook.com/narudomr) (Kiatnakin Bank)									|
 | 11:45-13:15 | ---**Lunch Break**---																		|
 | 13:15-13:30 | **Lucky Draw**	    																			|
-| 13:30-14:30 | **Topic 3** <br>--- Khun Suppawit P. and Khun Weerawat P. (Secure D Center)			    		|
+| 13:30-14:30 | **Topic 3** <br>--- [Khun Suppawit P.](https://www.facebook.com/l1nFiNiTyl) and [Khun Weerawat P.](https://www.facebook.com/Erbazz) (Secure D Center)			    		|
 | 14:30-15:30 | **"Red Team Preparation: Break Down the Antivirus (0-Day)"** <br>--- [Khun Kusol Watchara-Apanukorn](https://www.facebook.com/kusol.watch) (SnoopBees)									|
 | 15:30-16:30 | **Topic 5** 																					|
 | 16:30-16:45 | **Lucky Draw & Closing** <br>--- [Khun Chutima Singharod](https://www.facebook.com/parnziizaa) (MiSSConf) 								|
