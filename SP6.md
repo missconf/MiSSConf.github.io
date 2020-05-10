@@ -8,7 +8,7 @@
 
 |      Agenda       																							|
 |-------------|-------------------------------------------------------------------------------------------------|
-| 09:30-09:45 | **Opening & MiSSConf's FanPanTae** <br>--- Khun Eakkphol P. and Maykin W. (MiSSConf)			                                            |
+| 09:30-09:45 | **Opening & MiSSConf's FanPanTae** <br>--- [Khun Eakkphol P.](https://www.facebook.com/eakkphol) and [Maykin W.](https://www.facebook.com/maeklong) (MiSSConf)			                                            |
 | 09:45-10:45 | **"Communication in Crisis" != "Crisis in Communication"** <br>---[Dr. Nawanan Theera-Ampornpunt](https://www.facebook.com/nawanan/) (Faculty of Medicine Ramathibodi Hospital)  |
 | 10:45-11:45 | **Topic 2** <br>--- [Khun Narudom Roongsiriwong](https://www.facebook.com/narudomr) (Kiatnakin Bank)									|
 | 11:45-13:15 | **---Lunch Break---**																			|
