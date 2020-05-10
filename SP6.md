@@ -16,7 +16,7 @@
 | 13:30-14:30 | **Topic 3** <br>--- Khun Suppawit P. and Khun Weerawat P. (Secure D Center)			    		|
 | 14:30-15:30 | **Topic 4** <br>--- [Khun Kusol Watchara-Apanukorn](https://www.facebook.com/kusol.watch) (SnoopBees)									|
 | 15:30-16:30 | **Topic 5** 																					|
-| 16:30-16:45 | **Lucky Draw & Closing** <br>--- Khun Chutima Singharod (MiSSConf) 								|
+| 16:30-16:45 | **Lucky Draw & Closing** <br>--- [Khun Chutima Singharod](https://www.facebook.com/parnziizaa) (MiSSConf) 								|
 
 
 ## Platinum Sponsors:
