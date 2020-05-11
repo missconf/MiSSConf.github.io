@@ -8,6 +8,6 @@
 + [Suphawadee Charuteeranat](https://www.facebook.com/thdeemiss03/videos/2959085644182542/)
 + [Pattira Namkate](https://www.facebook.com/baitoeyJa/videos/10158195250664618/)
 + [Angkarn Pummarin & Pemika Limpittaya](https://www.facebook.com/100001067366066/posts/3053481184697430)
-+ [Hatsaya Sae-Chua](https://web.facebook.com/permalink.php?story_fbid=1517355111780362&id=100005176634024)
++ [Hatsaya Sae-Chua](https://www.facebook.com/permalink.php?story_fbid=1517355111780362&id=100005176634024)
 
 [![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
