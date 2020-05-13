@@ -13,5 +13,6 @@
 + [Pattama Thongprapai](https://www.facebook.com/pattama.thongprapai/posts/10217962378392691)
 + [Pongpat Rakdej](https://www.facebook.com/pongpatrakdej/posts/1530636897094671)
 + [Piramol Kengkoomphol](https://www.facebook.com/1617158307/posts/10220560637998731)
++ [CK Charles](https://youtu.be/xxywF8umhX8)
 
 [![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
