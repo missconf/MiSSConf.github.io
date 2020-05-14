@@ -2,7 +2,7 @@
 ## [#MiSSConf(SP5)](SP5)
 ## [#MiSSConf(SP4.0)](https://miss.in.th/MiSSConf(SP4.0)/agenda/)
 ## [#MiSSConf(SP3)](https://miss.in.th/MiSSConf(SP3)/agenda/)
-## [#MiSSConf(SP2)]((https://miss.in.th/MiSSConf(SP2)/)
+## [#MiSSConf(SP2)](https://miss.in.th/MiSSConf(SP2)/)
 ## #MiSSConf(SP1)
 ## #MiSSDay
 
