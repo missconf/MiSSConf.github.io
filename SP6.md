@@ -8,14 +8,14 @@
 
 |      Agenda       																							|
 |-------------|-------------------------------------------------------------------------------------------------|
-| 09:30-09:45 | **Opening & MiSSConf's FanPanTae** <br>--- [Khun Eakkphol Pobsuknirundorn](https://www.facebook.com/eakkphol) and [Maykin Warasart](https://www.facebook.com/maeklong) (MiSSConf)			                                            |
-| 09:45-10:45 | **"Communication in Crisis" != "Crisis in Communication"** <br>--- [Dr. Nawanan Theera-Ampornpunt](https://www.facebook.com/nawanan/) (Faculty of Medicine Ramathibodi Hospital)  |
-| 10:45-11:45 | **"How Good Security Architecture Saves Corporate Workers from Covid-19"** <br>--- [Khun Narudom Roongsiriwong](https://www.facebook.com/narudomr) (Kiatnakin Bank)									|
-| 11:45-13:15 | ---**Lunch Break**---																		|
-| 13:15-13:30 | **Lucky Draw**	    																			|
+| 09:30-09:45 | **Opening & MiSSConf's FanPanTae** <br>--- [Khun Eakkphol Pobsuknirundorn](https://www.facebook.com/eakkphol) and [Maykin Warasart](https://www.facebook.com/maeklong) (MiSSConf)|
+| 09:45-10:45 | **"Communication in Crisis" != "Crisis in Communication"** <br>--- [Dr. Nawanan Theera-Ampornpunt](https://www.facebook.com/nawanan/) (Faculty of Medicine Ramathibodi Hospital)|
+| 10:45-11:45 | **"How Good Security Architecture Saves Corporate Workers from Covid-19"** <br>--- [Khun Narudom Roongsiriwong](https://www.facebook.com/narudomr) (Kiatnakin Bank)|
+| 11:45-13:15 | ---**Lunch Break**---|
+| 13:15-13:30 | **Lucky Draw**|
 | 13:30-14:30 | **"Breaching Active Directory — From Guest to Domain Admin"** <br>--- [Khun Suppawit P.](https://www.facebook.com/l1nFiNiTyl) and [Khun Weerawat P.](https://www.facebook.com/Erbazz) (Secure D Center)|
 | 14:30-15:30 | **"Red Team Preparation: Break Down the Antivirus (0-Day)"** <br>--- [Khun Kusol Watchara-Apanukorn](https://www.facebook.com/kusol.watch) (SnoopBees)|
-| 15:30-15:45 | **Lucky Draw & Closing** <br>--- [Khun Chutima Singharod](https://www.facebook.com/parnziizaa) (MiSSConf) 								|
+| 15:30-15:45 | **Lucky Draw & Closing** <br>--- [Khun Chutima Singharod](https://www.facebook.com/parnziizaa) (MiSSConf)|
 
 
 ## Platinum Sponsors:
