@@ -16,5 +16,6 @@
 + [CK Charles](https://youtu.be/xxywF8umhX8)
 + [Somphol Sirisa](https://www.facebook.com/drunkenman/posts/3713624175374463)
 + [Jedsada Thongkanluang](https://www.facebook.com/100000128543995/posts/3497331986947718)
++ [Kantinat Nithiphonphat](https://www.facebook.com/n.kantinat/videos/3211515155525868)
 
 [![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
