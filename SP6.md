@@ -19,11 +19,8 @@
 
 
 ## Platinum Sponsors:
-[![](/SP6/Sponsors/SoSecure.png "SOSECURE - ทีมงานมืออาชีพรับอบรมทางด้าน Cybersecurity เพื่อความปลอดภัยทางไซเบอร์ขั้นสูง รวมทั้ง Penetration Testing การทดสอบไม่ให้มีการเจาะระบบจากเเหล่งภายนอกมายังเว็บไซต์ เพื่อให้เว็บไซต์ปลอดภัยมากขึ้น")](https://www.sosecure.co.th/)
 [![](/SP6/Sponsors/SecureD.png "Your Secure Daemon. We provide cyber security services for your company ranging from cyber security training, consultant, penetration testing, incident response, and more.")](https://www.secure-d.tech/)
 [![](/SP6/Sponsors/Rapid7.jpg "Accelerate Security, Vuln Management, Compliance")](https://www.rapid7.com/)
-
-## Silver Sponsor:
 [![](/SP6/Sponsors/SnoopBees.png "Today, information systems are widely used in many organizations. However, it is necessary to have all systems and data to be secured. To increase security, we provide various of services to your organization including")](https://www.snoopbees.com/)
 
 ## Previous Events:
