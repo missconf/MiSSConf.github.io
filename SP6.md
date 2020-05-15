@@ -1,4 +1,4 @@
-## #MiSSConf(SP6), a virtual event by [TechTalk Thai](https://www.techtalkthai.com/)
+## [#MiSSConf(SP6)](https://missconf.github.io/SP6), a virtual event by [TechTalk Thai](https://www.techtalkthai.com/)
 
 [![](/img/MiSSConf-icon-640x202.png "MiSSConf")](https://MiSSConf.github.io)
 
