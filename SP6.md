@@ -4,7 +4,7 @@
 
 + Date : **(Sat) June 6, 2020**
 + Venue : **Online**
-+ Online Registration : **(Fri) May 15, 2020** (15:15) [[Click!!!(https://zoom.us/webinar/register/WN_ZtFe6UhzSpe5ek_uz0MtdA)]
++ Online Registration : **(Fri) May 15, 2020** (15:15) [Click!!!](https://zoom.us/webinar/register/WN_ZtFe6UhzSpe5ek_uz0MtdA)
 
 |      Agenda       																							|
 |-------------|-------------------------------------------------------------------------------------------------|
