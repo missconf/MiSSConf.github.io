@@ -18,7 +18,7 @@
 | 15:30-15:45 | **Lucky Draw & Closing** <br>--- [Khun Chutima Singharod](https://www.facebook.com/parnziizaa) (MiSSConf)|
 
 
-## Platinum Sponsors:
+## Our Sponsors:
 [![](/SP6/Sponsors/SecureD.png "Your Secure Daemon. We provide cyber security services for your company ranging from cyber security training, consultant, penetration testing, incident response, and more.")](https://www.secure-d.tech/)
 [![](/SP6/Sponsors/Rapid7.jpg "Accelerate Security, Vuln Management, Compliance")](https://www.rapid7.com/)
 [![](/SP6/Sponsors/SnoopBees.png "Today, information systems are widely used in many organizations. However, it is necessary to have all systems and data to be secured. To increase security, we provide various of services to your organization including")](https://www.snoopbees.com/)
