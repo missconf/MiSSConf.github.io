@@ -1,4 +1,4 @@
-## #MiSSConf(SP6)
+## #MiSSConf(SP6) powered by TechTalk Thai
 
 [![](/img/MiSSConf-icon-640x202.png "MiSSConf")](https://MiSSConf.github.io)
 
