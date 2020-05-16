@@ -19,5 +19,6 @@
 + [Kantinat Nithiphonphat](https://www.facebook.com/n.kantinat/videos/3211515155525868)
 + [Sumedt Jitpukdebodin](https://web.facebook.com/sumedt.jitpukdebodin/posts/10158489672714579)
 + [Manich Koomsusi](https://www.facebook.com/manich.koomsusi/posts/3072764142773613)
++ [Damrongsak Reetanon](https://www.facebook.com/damrongsak/posts/10158137328479178)
 
 [![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
