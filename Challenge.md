@@ -15,5 +15,11 @@
 + [Piramol Kengkoomphol](https://www.facebook.com/1617158307/posts/10220560637998731)
 + [CK Charles](https://youtu.be/xxywF8umhX8)
 + [Somphol Sirisa](https://www.facebook.com/drunkenman/posts/3713624175374463)
++ [Jedsada Thongkanluang](https://www.facebook.com/100000128543995/posts/3497331986947718)
++ [Kantinat Nithiphonphat](https://www.facebook.com/n.kantinat/videos/3211515155525868)
++ [Sumedt Jitpukdebodin](https://web.facebook.com/sumedt.jitpukdebodin/posts/10158489672714579)
++ [Manich Koomsusi](https://www.facebook.com/manich.koomsusi/posts/3072764142773613)
++ [Damrongsak Reetanon](https://www.facebook.com/damrongsak/posts/10158137328479178)
++ [Patcharapon Susuk](https://www.facebook.com/Forestwick/posts/3031382940251897)
 
 [![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)

@@ -1,30 +1,26 @@
-## #MiSSConf(SP6)
+## [#MiSSConf(SP6)](https://missconf.github.io/SP6), a virtual event by [TechTalk Thai](https://www.techtalkthai.com/)
 
 [![](/img/MiSSConf-icon-640x202.png "MiSSConf")](https://MiSSConf.github.io)
 
 + Date : **(Sat) June 6, 2020**
 + Venue : **Online**
-+ Online Registration : **(Fri) May 15, 2020** (15:15)
++ Online Registration : **(Fri) May 15, 2020** (15:15) [Click!!!](https://zoom.us/webinar/register/WN_ZtFe6UhzSpe5ek_uz0MtdA)
 
 |      Agenda       																							|
 |-------------|-------------------------------------------------------------------------------------------------|
-| 09:30-09:45 | **Opening & MiSSConf's FanPanTae** <br>--- [Khun Eakkphol Pobsuknirundorn](https://www.facebook.com/eakkphol) and [Maykin Warasart](https://www.facebook.com/maeklong) (MiSSConf)			                                            |
-| 09:45-10:45 | **"Communication in Crisis" != "Crisis in Communication"** <br>--- [Dr. Nawanan Theera-Ampornpunt](https://www.facebook.com/nawanan/) (Faculty of Medicine Ramathibodi Hospital)  |
-| 10:45-11:45 | **Topic 2** <br>--- [Khun Narudom Roongsiriwong](https://www.facebook.com/narudomr) (Kiatnakin Bank)									|
-| 11:45-13:15 | ---**Lunch Break**---																		|
-| 13:15-13:30 | **Lucky Draw**	    																			|
-| 13:30-14:30 | **"Breaching Active Directory — From Guest to Domain Admin"** <br>--- [Khun Suppawit P.](https://www.facebook.com/l1nFiNiTyl) and [Khun Weerawat P.](https://www.facebook.com/Erbazz) (Secure D Center)			    		|
-| 14:30-15:30 | **"Red Team Preparation: Break Down the Antivirus (0-Day)"** <br>--- [Khun Kusol Watchara-Apanukorn](https://www.facebook.com/kusol.watch) (SnoopBees)									|
-| 15:30-16:30 | **Topic 5** 																					|
-| 16:30-16:45 | **Lucky Draw & Closing** <br>--- [Khun Chutima Singharod](https://www.facebook.com/parnziizaa) (MiSSConf) 								|
+| 09:30-09:45 | **Opening & MiSSConf's FanPanTae** <br>--- [Khun Eakkphol Pobsuknirundorn](https://www.facebook.com/eakkphol) and [Maykin Warasart](https://www.facebook.com/maeklong) (MiSSConf)|
+| 09:45-10:45 | **"Communication in Crisis" != "Crisis in Communication"** <br>--- [Dr. Nawanan Theera-Ampornpunt](https://www.facebook.com/nawanan/) (Faculty of Medicine Ramathibodi Hospital)|
+| 10:45-11:45 | **"How Good Security Architecture Saves Corporate Workers from Covid-19"** <br>--- [Khun Narudom Roongsiriwong](https://www.facebook.com/narudomr) (Kiatnakin Bank)|
+| 11:45-13:15 | ---**Lunch Break**---|
+| 13:15-13:30 | **Lucky Draw**|
+| 13:30-14:30 | **"Breaching Active Directory — From Guest to Domain Admin"** <br>--- [Khun Suppawit P.](https://www.facebook.com/l1nFiNiTyl) and [Khun Weerawat P.](https://www.facebook.com/Erbazz) (Secure D Center)|
+| 14:30-15:30 | **"Red Team Preparation: Break Down the Antivirus (0-Day)"** <br>--- [Khun Kusol Watchara-Apanukorn](https://www.facebook.com/kusol.watch) (SnoopBees)|
+| 15:30-15:45 | **Lucky Draw & Closing** <br>--- [Khun Chutima Singharod](https://www.facebook.com/parnziizaa) (MiSSConf)|
 
 
-## Platinum Sponsors:
-[![](/SP6/Sponsors/SoSecure.png "SOSECURE - ทีมงานมืออาชีพรับอบรมทางด้าน Cybersecurity เพื่อความปลอดภัยทางไซเบอร์ขั้นสูง รวมทั้ง Penetration Testing การทดสอบไม่ให้มีการเจาะระบบจากเเหล่งภายนอกมายังเว็บไซต์ เพื่อให้เว็บไซต์ปลอดภัยมากขึ้น")](https://www.sosecure.co.th/)
+## Our Sponsors:
 [![](/SP6/Sponsors/SecureD.png "Your Secure Daemon. We provide cyber security services for your company ranging from cyber security training, consultant, penetration testing, incident response, and more.")](https://www.secure-d.tech/)
 [![](/SP6/Sponsors/Rapid7.jpg "Accelerate Security, Vuln Management, Compliance")](https://www.rapid7.com/)
-
-## Silver Sponsor:
 [![](/SP6/Sponsors/SnoopBees.png "Today, information systems are widely used in many organizations. However, it is necessary to have all systems and data to be secured. To increase security, we provide various of services to your organization including")](https://www.snoopbees.com/)
 
 ## Previous Events:
