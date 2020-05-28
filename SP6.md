@@ -22,6 +22,7 @@
 [![](/SP6/Sponsors/SecureD.png "Your Secure Daemon. We provide cyber security services for your company ranging from cyber security training, consultant, penetration testing, incident response, and more.")](https://www.secure-d.tech/)
 [![](/SP6/Sponsors/Rapid7.jpg "Accelerate Security, Vuln Management, Compliance")](https://www.rapid7.com/)
 [![](/SP6/Sponsors/SnoopBees.png "Today, information systems are widely used in many organizations. However, it is necessary to have all systems and data to be secured. To increase security, we provide various of services to your organization including")](https://www.snoopbees.com/)
+[![](/SP6/Sponsors/CYN-640.jpg "CYN COMMUNICATION CO.,LTD. Total Solution Wireless Network and Live Stream")](http://cyn.co.th/)
 
 ## Previous Events:
 * [MiSSConf(SP5)](https://www.techtalkthai.com/misscoinf-sp5-date-and-agenda-are-announced/)[[➳](https://www.facebook.com/notes/2450050635052739/)]
