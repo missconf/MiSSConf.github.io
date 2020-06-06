@@ -14,7 +14,7 @@
 | 11:45-13:15 | ---**Lunch Break**---|
 | 13:15-13:30 | **Lucky Draw**|
 | 13:30-14:30 | **"Breaching Active Directory — From Guest to Domain Admin"** <br>--- [Khun Suppawit P.](https://www.facebook.com/l1nFiNiTyl) and [Khun Weerawat P.](https://www.facebook.com/Erbazz) (Secure D Center) [(Slide)](https://drive.google.com/file/d/1C0jVVuvPrJaUmLewqcnR-ctDdFRpcl7-/view)|
-| 14:30-15:30 | **"Red Team Preparation: Break Down the Antivirus (0-Day)"** <br>--- [Khun Kusol Watchara-Apanukorn](https://www.facebook.com/kusol.watch) (SnoopBees)|
+| 14:30-15:30 | **"Red Team Preparation: Break Down the Antivirus (0-Day)"** <br>--- [Khun Kusol Watchara-Apanukorn](https://www.facebook.com/kusol.watch) (SnoopBees)[(Slide)](https://drive.google.com/file/d/1pHO9mco4cT9aicAy2Fo-JWyggvY4a6yU/view)|
 | 15:30-15:45 | **Lucky Draw & Closing** <br>--- [Khun Chutima Singharod](https://www.facebook.com/parnziizaa) (MiSSConf)|
 
 
