@@ -8,7 +8,7 @@
 
 |      Agenda       																							|
 |-------------|-------------------------------------------------------------------------------------------------|
-| 09:30-09:45 | **Opening & MiSSConf's FanPanTae** <br>--- [Khun Eakkphol Pobsuknirundorn](https://www.facebook.com/eakkphol) and [Maykin Warasart](https://www.facebook.com/maeklong) (MiSSConf)|
+| 09:30-09:45 | **Opening & MiSSConf's FanPanTae** <br>--- [Khun Eakkphol Pobsuknirundorn](https://www.facebook.com/eakkphol) and [Maykin Warasart](https://www.facebook.com/maeklong) (MiSSConf) [(Video)](https://youtu.be/YVI-YmCTpjY)|
 | 09:45-10:45 | **"Communication in Crisis" != "Crisis in Communication"** <br>--- [Dr. Nawanan Theera-Ampornpunt](https://www.facebook.com/nawanan/) (Faculty of Medicine Ramathibodi Hospital) [(Slide)](https://www.slideshare.net/nawanan/communication-in-crisis-crisis-in-communication-june-6-2020-235087922)|
 | 10:45-11:45 | **"How Good Security Architecture Saves Corporate Workers from Covid-19"** <br>--- [Khun Narudom Roongsiriwong](https://www.facebook.com/narudomr) (Kiatnakin Bank) [(Slide)](SP6/Slides/How-Good-Security-Architecture-Saves-Corporate-Workers-from-Covid-19.pdf)|
 | 11:45-13:15 | ---**Lunch Break**---|
