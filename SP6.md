@@ -10,7 +10,7 @@
 |-------------|-------------------------------------------------------------------------------------------------|
 | 09:30-09:45 | **Opening & MiSSConf's FanPanTae** <br>--- [Khun Eakkphol Pobsuknirundorn](https://www.facebook.com/eakkphol) and [Maykin Warasart](https://www.facebook.com/maeklong) (MiSSConf) [(Video)](https://youtu.be/YVI-YmCTpjY)|
 | 09:45-10:45 | **"Communication in Crisis" != "Crisis in Communication"** <br>--- [Dr. Nawanan Theera-Ampornpunt](https://www.facebook.com/nawanan/) (Faculty of Medicine Ramathibodi Hospital) [(Slide)](https://www.slideshare.net/nawanan/communication-in-crisis-crisis-in-communication-june-6-2020-235087922) [(Video)](https://www.facebook.com/nawanan/videos/10116156299353520/)|
-| 10:45-11:45 | **"How Good Security Architecture Saves Corporate Workers from Covid-19"** <br>--- [Khun Narudom Roongsiriwong](https://www.facebook.com/narudomr) (Kiatnakin Bank) [(Slide)](SP6/Slides/How-Good-Security-Architecture-Saves-Corporate-Workers-from-Covid-19.pdf)|
+| 10:45-11:45 | **"How Good Security Architecture Saves Corporate Workers from Covid-19"** <br>--- [Khun Narudom Roongsiriwong](https://www.facebook.com/narudomr) (Kiatnakin Bank) [(Slide)](https://www.slideshare.net/narudomr/how-good-security-architecture-saves-corporate-workers-from-covid19)|
 | 11:45-13:15 | ---**Lunch Break**---|
 | 13:15-13:30 | **Lucky Draw**|
 | 13:30-14:30 | **"Breaching Active Directory — From Guest to Domain Admin"** <br>--- [Khun Suppawit P.](https://www.facebook.com/l1nFiNiTyl) and [Khun Weerawat P.](https://www.facebook.com/Erbazz) (Secure D Center) [(Slide)](https://drive.google.com/file/d/1C0jVVuvPrJaUmLewqcnR-ctDdFRpcl7-/view)|
