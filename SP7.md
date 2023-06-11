@@ -10,7 +10,7 @@
 |-------------|-------------------------------------------------------------------------------------------------|
 | 08:30-08:45 | Registration |
 | 08:45-09:00 | **Welcome speech, activities under iKNEX (Thailand) & Lucky Draw** <br>--- [Mr. Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) and [Maykin Warasart](https://mayk.in/) iKNEX Thailand |
-| 09:00-09:40 | **"AI adoption in cyber defense"** <br>--- [Mr. Phusit Chevakanit] (Head of Research and Development Department, Cyber Elite) [(Slide)](#) |
+| 09:00-09:40 | **"AI adoption in cyber defense"** <br>--- Mr. Phusit Chevakanit (Head of Research and Development Department, Cyber Elite) [(Slide)](#) |
 | 09:40-10:20 | **"Data Breach Management Strategies for SMEs to Enterprises"** <br>--- [Ms. Kullatee Boonsiri] (Senior Cyber Security and Privacy Consultant, Green Grapes Limited (Thailand)) [(Slide)](#) |
 | 10:20-10:35 | ---**Lunch Break**--- |
 | 10:35-11:15 | **"Securing & Hacking LINE OA Integration"** <br>--- [Mr. Pichaya Morimoto] (Lead Penetration Tester, Siam Thanat Hack Company Limited) |
