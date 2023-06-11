@@ -19,6 +19,11 @@
 | 13:10-13:50 | **"Sponsorship Session & Lucky Draw"**|
 | 13:50-14:30 | **"ตกลง(วงการ)หมอพร้อมหรือไม่พร้อม สำหรับภัยคุกคาม cybersecurity ในยุคนี้? — ความเห็นส่วนตัวจากหมอไอทีคนหนึ่ง"** <br>--- [นพ.นวนรรน ธีระอัมพรพันธุ์]() <br>รองคณบดีฝ่ายปฏิบัติการและอาจารย์สาขาวิชาสารสนเทศคลินิก
 คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล|
+| 14:30-15:10 | **"How to use ChatGPT in Cybersecurity Operation"** <br>--- [Mr]() |
+| 15:10-15:25 | ---**Lunch Break**--- |
+| 15:25-16:05 | **"Biometric Authentication: Can We Really Rely On?"** |
+| 16:05-16:45 | **"Road to International Cybersecurity Championship"** |
+| 16:45-17:00 | **"Lucky Draw & Closing"** |
 
 
 ## Our Sponsors:
