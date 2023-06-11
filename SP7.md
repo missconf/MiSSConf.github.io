@@ -15,6 +15,8 @@
 | 10:20-10:35 | ---**Lunch Break**--- |
 | 10:35-11:15 | **"Securing & Hacking LINE OA Integration"** <br>--- [Mr. Pichaya Morimoto] (Lead Penetration Tester, Siam Thanat Hack Company Limited) |
 | 11:15-11:55 | **"Using Signed SSH Certificate for Remote Access with HashiCorp Vault"** <br>--- [Mr. Damrongsak Reetanon] (Chief Cyber Security Officer, MFEC)
+| 11:55-13:10 | ---**Lunchtime**--- |
+
 
 ## Our Sponsors:
 [![](/SP7/Sponsors/Final.jpg "MiSSConf(SP7)")](https://MiSSConf.github.io)
