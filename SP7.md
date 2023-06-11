@@ -14,7 +14,7 @@
 | 09:40-10:20 | **"Data Breach Management Strategies for SMEs to Enterprises"** <br>--- [Ms. Kullatee Boonsiri](https://www.facebook.com/kullatee.boonsiri) - Senior Cyber Security and Privacy Consultant, Green Grapes Limited (Thailand) [(Slide)](#) |
 | 10:20-10:35 | ---**Lunch Break**--- |
 | 10:35-11:15 | **"Securing & Hacking LINE OA Integration"** <br>--- [Mr. Pichaya Morimoto](https://www.facebook.com/index.htmli) - Lead Penetration Tester, Siam Thanat Hack Company Limited [(Slide)](https://www.slideshare.net/pichayaa/securing-and-hacking-line-oa-integration) |
-| 11:15-11:55 | **"Using Signed SSH Certificate for Remote Access with HashiCorp Vault"** <br>--- [Mr. Damrongsak Reetanon] (Chief Cyber Security Officer, MFEC)
+| 11:15-11:55 | **"Using Signed SSH Certificate for Remote Access with HashiCorp Vault"** <br>--- [Mr. Damrongsak Reetanon](https://www.facebook.com/damrongsak) - Chief Cyber Security Officer, MFEC [(Slide)](https://www.dropbox.com/s/d1bcbqqz1n5b9a9/exported-SSH_Secrets_Engine.pdf) |
 | 11:55-13:10 | ---**Lunchtime**--- |
 
 
