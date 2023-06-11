@@ -17,7 +17,7 @@
 | 11:15-11:55 | **"Using Signed SSH Certificate for Remote Access with HashiCorp Vault"** <br>--- [Mr. Damrongsak Reetanon](https://www.facebook.com/damrongsak) <br>Chief Cyber Security Officer, MFEC [(Slide)](https://www.dropbox.com/s/d1bcbqqz1n5b9a9/exported-SSH_Secrets_Engine.pdf) |
 | 11:55-13:10 | ---**Lunchtime**--- |
 | 13:10-13:50 | **"Sponsorship Session & Lucky Draw"**|
-| 13:50-14:30 | **"ตกลง(วงการ)หมอพร้อมหรือไม่พร้อม สำหรับภัยคุกคาม cybersecurity ในยุคนี้? — ความเห็นส่วนตัวจากหมอไอทีคนหนึ่ง"** <br>--- [นพ.นวนรรน ธีระอัมพรพันธุ์]() <br>รองคณบดีฝ่ายปฏิบัติการและอาจารย์สาขาวิชาสารสนเทศคลินิก คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล|
+| 13:50-14:30 | **"ตกลง(วงการ)หมอพร้อมหรือไม่พร้อม สำหรับภัยคุกคาม cybersecurity ในยุคนี้? — ความเห็นส่วนตัวจากหมอไอทีคนหนึ่ง"** <br>--- [นพ.นวนรรน ธีระอัมพรพันธุ์](https://www.facebook.com/nawanan) <br>รองคณบดีฝ่ายปฏิบัติการและอาจารย์สาขาวิชาสารสนเทศคลินิก คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล|
 | 14:30-15:10 | **"How to use ChatGPT in Cybersecurity Operation"** <br>--- [Mr]() |
 | 15:10-15:25 | ---**Lunch Break**--- |
 | 15:25-16:05 | **"Biometric Authentication: Can We Really Rely On?"** |
