@@ -18,7 +18,7 @@
 | 11:55-13:10 | ---**Lunchtime**--- |
 | 13:10-13:50 | **"Sponsorship Session & Lucky Draw"**|
 | 13:50-14:30 | **"ตกลง(วงการ)หมอพร้อมหรือไม่พร้อม สำหรับภัยคุกคาม cybersecurity ในยุคนี้? — ความเห็นส่วนตัวจากหมอไอทีคนหนึ่ง"** <br>--- [นพ.นวนรรน ธีระอัมพรพันธุ์](https://www.facebook.com/nawanan) <br>รองคณบดีฝ่ายปฏิบัติการและอาจารย์สาขาวิชาสารสนเทศคลินิก คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล [(Slide)](https://missconf.github.io/SP7/Slides/%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B9%88.pdf) |
-| 14:30-15:10 | **"How to use ChatGPT in Cybersecurity Operation"** <br>--- [Mr. Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin) <br>Co-Founder, Secure D Global [(Slide)](#) |
+| 14:30-15:10 | **"How to use ChatGPT in Cybersecurity Operation"** <br>--- [Mr. Sumedt Jitpukdebodin](https://www.facebook.com/sumedt.jitpukdebodin) <br>Co-Founder, Secure D Global [(Slide)](https://drive.google.com/file/d/1Y8Mv-M-MKcMljVKYh2FeDdPFj-J1sTFd/view) |
 | 15:10-15:25 | ---**Lunch Break**--- |
 | 15:25-16:05 | **"Biometric Authentication: Can We Really Rely On?"** <br>--- [Mr. Narudom Roongsiriwong](https://www.facebook.com/narudomr) <br>OWASP Bangkok Chapter Leader & CSA Fellow [(Slide)](#) |
 | 16:05-16:45 | **"Road to International Cybersecurity Championship"** <br>--- [Mr. Piriya Muaithaisong](https://www.facebook.com/piriya.pee) & Mr. Tat Sangsomruang <br>Senior Penetration Tester and Red Teaming, MAYASEVEN [(Slide)](#) |
