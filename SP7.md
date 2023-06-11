@@ -9,7 +9,7 @@
 |      Agenda       																							|
 |-------------|-------------------------------------------------------------------------------------------------|
 | 08:30-08:45 | Registration |
-| 08:45-09:00 | **Welcome speech, activities under iKNEX (Thailand) & Lucky Draw** <br>--- [Mr. Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) and [Maykin Warasart](https://mayk.in/) <br>[iKNEX (Thailand)](https://iknex.or.th) [(Slide)](#) |
+| 08:45-09:00 | **Welcome speech, activities under iKNEX (Thailand) & Lucky Draw** <br>--- [Mr. Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) and [Mr. Maykin Warasart](https://mayk.in/) <br>[iKNEX (Thailand)](https://iknex.or.th) [(Slide)](#) |
 | 09:00-09:40 | **"AI adoption in cyber defense"** <br>--- [Mr. Phusit Chevakanit](https://www.linkedin.com/in/phusit-chevakanit-3195326) <br>Head of Research and Development Department, Cyber Elite [(Slide)](#) |
 | 09:40-10:20 | **"Data Breach Management Strategies for SMEs to Enterprises"** <br>--- [Ms. Kullatee Boonsiri](https://www.facebook.com/kullatee.boonsiri) <br>Senior Cyber Security and Privacy Consultant, Green Grapes Limited (Thailand) [(Slide)](#) |
 | 10:20-10:35 | ---**Lunch Break**--- |
