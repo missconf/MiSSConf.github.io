@@ -36,5 +36,5 @@
 
 
 ## For more information:
-**Maykin Warasart** *(missconfstaff@gmail.com, maykin@owasp.org)*
+**Maykin Warasart** *(maykin@iknex.or.th)*
 [![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
