@@ -20,7 +20,7 @@
 | 13:50-14:30 | **"ตกลง(วงการ)หมอพร้อมหรือไม่พร้อม สำหรับภัยคุกคาม cybersecurity ในยุคนี้? — ความเห็นส่วนตัวจากหมอไอทีคนหนึ่ง"** <br>--- [นพ.นวนรรน ธีระอัมพรพันธุ์](https://www.facebook.com/nawanan) <br>รองคณบดีฝ่ายปฏิบัติการและอาจารย์สาขาวิชาสารสนเทศคลินิก คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล|
 | 14:30-15:10 | **"How to use ChatGPT in Cybersecurity Operation"** <br>--- [Mr]() |
 | 15:10-15:25 | ---**Lunch Break**--- |
-| 15:25-16:05 | **"Biometric Authentication: Can We Really Rely On?"** |
+| 15:25-16:05 | **"Biometric Authentication: Can We Really Rely On?"** <br>--- [Mr. Narudom Roongsiriwong](https://www.facebook.com/narudomr) <br>OWASP Bangkok Chapter Leader & CSA Fellow [(Slide)](#) |
 | 16:05-16:45 | **"Road to International Cybersecurity Championship"** <br>--- [Mr. Piriya Muaithaisong](https://www.facebook.com/piriya.pee) & Mr. Tat Sangsomruang <br>Senior Penetration Tester and Red Teaming, MAYASEVEN [(Slide)](#) |
 | 16:45-17:00 | **"Lucky Draw & Closing"** |
 
