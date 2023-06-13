@@ -1,6 +1,6 @@
 ## [#MiSSConf(SP7)](https://missconf.github.io/SP7)
 
-[![](/img/MiSSConf-icon-640x202.png "MiSSConf")](https://MiSSConf.github.io)
+[![](/SP7/img/Final.jpg "MiSSConf(SP7)")](https://MiSSConf.github.io)
 
 + Date : **(Sat) June 10, 2023**
 + Venue : **Faculty of Public Health, Mahidol University**
