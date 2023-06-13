@@ -6,7 +6,8 @@
 + Venue : **Faculty of Public Health, Mahidol University**
 + Online Registration : [**(Thu) May 25, 2023** (12:21)](https://www.techtalkthai.com/missconfsp7-registration/)
 
-|      Agenda       																							|
+|:-----------:|:-----------------------------------------------------------------------------------------------:|
+|     Time    |      Agenda																						|
 |:-----------:|-------------------------------------------------------------------------------------------------|
 | 08:30-08:45 | Registration |
 | 08:45-09:00 | **Welcome speech, activities under iKNEX (Thailand) & Lucky Draw** <br>--- [Mr. Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) and [Mr. Maykin Warasart](https://mayk.in/) <br>[iKNEX (Thailand)](https://iknex.or.th) [(Slide)](#) |
