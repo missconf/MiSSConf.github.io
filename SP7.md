@@ -7,7 +7,7 @@
 + Online Registration : [**(Thu) May 25, 2023** (12:21)](https://www.techtalkthai.com/missconfsp7-registration/)
 
 |      Agenda       																							|
-|-------------|-------------------------------------------------------------------------------------------------|
+|:-----------:|-------------------------------------------------------------------------------------------------|
 | 08:30-08:45 | Registration |
 | 08:45-09:00 | **Welcome speech, activities under iKNEX (Thailand) & Lucky Draw** <br>--- [Mr. Chonlatit Rujiphut](https://www.facebook.com/LuxFerrer7Sins) and [Mr. Maykin Warasart](https://mayk.in/) <br>[iKNEX (Thailand)](https://iknex.or.th) [(Slide)](#) |
 | 09:00-09:40 | **"AI adoption in cyber defense"** <br>--- [Mr. Phusit Chevakanit](https://www.linkedin.com/in/phusit-chevakanit-3195326) <br>Head of Research and Development Department, Cyber Elite [(Slide)](/SP7/Slides/CBE-AI-adoption-in-cyber-defense.pdf) |
