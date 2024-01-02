@@ -7,4 +7,4 @@
 ## [MiSSConf(SP1)](https://www.techtalkthai.com/introduce-to-missconfsp1-free-it-security-seminar/)
 ## [MiSSDay](https://www.techtalkthai.com/it-connect-miss-day/)
 
-[![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf)
+<!-- [![](/img/lineat-missconf-v2-640.png "Talk w/ us via LINE")](https://line.me/R/ti/p/%40missconf) -->
