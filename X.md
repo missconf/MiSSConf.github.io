@@ -8,9 +8,10 @@
 |     Time    |      Agenda																				                		|
 |:-----------:|:---------------------------------------------------------------------------------------------------------------:|
 | 08:45-09:15 | --- **Registration** ---                                                                                        |
+| 09:15-10:00 | THAILAND CLOUD SECURITY ASSURANCE PROGRAM (TCSAP)<br> AVM. Amorn Chomchoey, National Cyber Security Agency (NCSA)  |
 
 
-## Our Sponsors:
+## Our Sponsors
 
 [![](/X/MiSSConfX_Sponsors.png "MiSSConfX")](https://www.facebook.com/hashtag/missconfX)
 
