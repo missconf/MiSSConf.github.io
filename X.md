@@ -15,10 +15,11 @@
 | 11:00-12:00 | **The Modern Cloud Security Landscape - Principles and Practices**<br> -- Mr. Narudom Roongsiriwong, Banpu Public Company Limited |
 | 12:00-13:00 | **Lunch Break** |
 | 13:00-13:45 | **สิ่งที่ผมอยากบอกชาว Cybersec ก่อนผมหมดหน้าที่ใน PDPC**, [[Slide](https://www.facebook.com/nawanan/posts/10129149826156650)]<br> -- ดร.นพ.นวนรรน ธีระอัมพรพันธุ์ คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล|
-| | |
-| | |
-| | |
-| | |
+| 13:45-14:30 | |
+| 14:30-14:45 | **Coffee Break**|
+| 14:45-15:30 | |
+| 15:30-16:15 | |
+| 16:15-16:30 | **Closing & Group Photograph** |
 
 ## Our Sponsors
 
