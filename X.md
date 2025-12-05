@@ -17,8 +17,8 @@
 | 13:00-13:45 | **สิ่งที่ผมอยากบอกชาว Cybersec ก่อนผมหมดหน้าที่ใน PDPC**, [[Slide](https://www.facebook.com/nawanan/posts/10129149826156650)]<br> -- ดร.นพ.นวนรรน ธีระอัมพรพันธุ์ คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล|
 | 13:45-14:30 | **Protecting Generative AI Security Threat with Microsoft Defender for Cloud**<br> -- Mr. Wisit Thongphoo, ITGeist|
 | 14:30-14:45 | **Coffee Break**|
-| 14:45-15:30 | |
-| 15:30-16:15 | |
+| 14:45-15:30 | **AI-Powered Attacks: Can Machines Hack You Now?**<br> -- Mr. Tavis Mekharuangpaisan & Mr. Pongsakorn Eavijikul, SOSECURE|
+| 15:30-16:15 | **Cybersecurity in Smart Factory**<br> -- Mr. Manutsiri Chansutthirangkool, BigFish Enterprise Limited |
 | 16:15-16:30 | **Closing & Group Photograph** |
 
 ## Our Sponsors
