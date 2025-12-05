@@ -8,8 +8,17 @@
 |     Time    |      Agenda																				                		|
 |:-----------:|:---------------------------------------------------------------------------------------------------------------:|
 | 08:45-09:15 | --- **Registration** ---                                                                                        |
-| 09:15-10:00 | THAILAND CLOUD SECURITY ASSURANCE PROGRAM (TCSAP) [[Slide](X/Slides/THAILAND-CLOUD-SECURITY-ASSURANCE-PROGRAM-(TCSAP).pdf)]<br> AVM. Amorn Chomchoey, National Cyber Security Agency (NCSA)  |
-
+| 09:15-09:30 | **Welcome Address & Lucky Draw**<br>--- [Mr. Chonlatit Rujiphut](#) & [Dr. Maykin Warasart](#), [iKNEX (Thailand)](https://iknex.or.th)      |
+| 09:30-10:15 | THAILAND CLOUD SECURITY ASSURANCE PROGRAM (TCSAP) [[Slide](X/Slides/THAILAND-CLOUD-SECURITY-ASSURANCE-PROGRAM-(TCSAP).pdf)]<br> AVM. Amorn Chomchoey, National Cyber Security Agency (NCSA)  |
+| 10:15-10:45 | |
+| 10:45-11:00 | |
+| 11:00-12:00 | |
+| 12:00-13:00 | |
+| | |
+| | |
+| | |
+| | |
+| | |
 
 ## Our Sponsors
 
