@@ -12,9 +12,9 @@
 | 09:30-10:15 | **THAILAND CLOUD SECURITY ASSURANCE PROGRAM (TCSAP)**, [[Slide](X/Slides/THAILAND-CLOUD-SECURITY-ASSURANCE-PROGRAM-(TCSAP).pdf)]<br> -- AVM. Amorn Chomchoey, National Cyber Security Agency (NCSA)  |
 | 10:15-10:45 | **เตรียมความพร้อม มาตรฐานการรักษาความมั่นคงปลอดภัยสำหรับเว็บไซต์ พ.ศ. 2568**<br> -- คุณพิชญะ โมริโมโต" จากบริษัท สยามถนัดแฮก |
 | 10:45-11:00 | **Coffee Break**|
-| 11:00-12:00 | **The Modern Cloud Security Landscape - Principles and Practices**<br> -- Mr. Narudom Roongsiriwong, Banpu Public Company Limited|
-| 12:00-13:00 | |
-| | |
+| 11:00-12:00 | **The Modern Cloud Security Landscape - Principles and Practices**<br> -- Mr. Narudom Roongsiriwong, Banpu Public Company Limited |
+| 12:00-13:00 | **Lunch Break** |
+| 13:00-13:45 | **สิ่งที่ผมอยากบอกชาว Cybersec ก่อนผมหมดหน้าที่ใน PDPC**, [[Slide](https://www.facebook.com/nawanan/posts/10129149826156650)]<br> -- ดร.นพ.นวนรรน ธีระอัมพรพันธุ์ คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล|
 | | |
 | | |
 | | |
